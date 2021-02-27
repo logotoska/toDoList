@@ -1,0 +1,15 @@
+{
+  "login": "Login",
+  "singup": "SingUp",
+  "submit": "Submit",
+  "list": "MyList",
+  "addTask": "AddTask",
+  "add": "Add",
+  "upd": "Update",
+  "updTask": "UpdateTask",
+  "delete": "Delete",
+  "invem": "invalid email",
+  "inpass": "invalid password",
+  "errTitle": "An Error Ocurred",
+  "errMSG": "Authentication Failed. Please try again! "
+}
